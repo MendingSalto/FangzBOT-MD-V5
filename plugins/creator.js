@@ -22,13 +22,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
 *💌 Nama* : Fangz
-*✉️ Nama RL* : FangzBOT
-*♂️ Gender* : Laki - laki
+*✉️ Nama RL* : KoKo•Rey
+*♂️ Gender* : Gua BATANG
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 25 oktober 2007
-*🎨 Umur* : 15
-*🧮 Kelas* : 9
-*🧩 Hobby* : Nonton henta*, main game, Recode script
+*⏰ Tanggal lahir* : 19 oktober 2002
+*🎨 Umur* : 5y.o
+*🧮 Kelas* : TK
+*🧩 Hobby* : Nonton henta*, main game, Recode Wangsaf
 *💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
 *🗺️ Tinggal* : Indonesia, jawa, bogor
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
